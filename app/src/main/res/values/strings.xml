@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Tasty</string>
+    <string name="asian_chicken_ind">1. ¼ cup sesame seeds\n2. 1 (16 ounce) package bow tie pasta\n3. ½ cup vegetable oil\n4. ⅓ cup light soy sauce\n5. ⅓ cup rice vinegar\n6. 1 teaspoon sesame oil
+\n7. 3 tablespoons white sugar
+\n8. ½ teaspoon ground ginger
+\n9. ¼ teaspoon ground black pepper
+\n10. 3 cups shredded, cooked chicken breast meat
+\n11. ⅓ cup chopped fresh cilantro
+\n12. ⅓ cup chopped green onion</string>
+    <string name="asian_chicken_pro">  Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside.
+
+ \n\n
+  Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl.
+
+ \n\n
+  In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well.
+
+ \n\n
+  Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.</string>
+    <string name="rice_pudding_ind">1. 3/4 cup uncooked white rice\n2. 2 cups milk, divided\n3. 1/3 cup white sugar\n5.1/4 teaspoon salt1 egg, beaten\n6. 2/3 cup golden raisins1 tablespoon butter\n7. 1/2 teaspoon vanilla extract</string>
+    <string name="rice_pudding_pro">
+        Bring 1 1/2 cups water to a boil in a saucepan; stir rice into boiling water. Reduce heat to low, cover, and simmer for 20 minutes.
+\n\nIn a clean saucepan, combine 1 1/2 cups cooked rice, 1 1/2 cups milk, sugar and salt. Cook over medium heat until thick and creamy, 15 to 20 minutes. Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla.
+    </string>
+    <string name="chicken_tanduri_ind">
+1. 1 c. Greek yogurt
+\n2. Juice of 1 lime
+\n3. 1 clove garlic, minced
+\n4. 1 tbsp. freshly grated ginger
+\n5. 1 tsp. garam masala
+\n6. 1/2 tsp. ground turmeric
+\n7. Kosher salt
+\8. Pinch of cayenne pepper
+\n9. 2 lb. chicken legs</string>
+    <string name="chicken_tanduri_pro">In a large bowl, whisk together yogurt, lime juice, garlic, ginger, garam masala, and turmeric and season with salt and cayenne. 
+\n\nAdd chicken and toss until fully coated. Let marinate in the fridge at least 2 hours. 
+\n\nWhen ready to bake, preheat oven to 400º and line a baking sheet with a wire rack. Bake chicken 20 minutes, then flip and bake 20 minutes more. Heat broiler and broil until skin is crispy, 2 minutes.</string>
+    <string name="chicken_curry_ind">1 pound boneless skinless chicken breast chopped into bite sized pieces
+1. 1 Tablespoon vegetable oil
+\n2. 1 Tablespoon minced garlic
+\n3. 1 small yellow or white onion chopped
+\n4. 2 Tablespoons yellow curry powder
+\n5. 1 Tablespoon Thai red curry paste
+\n6. 15- ounce coconut milk canned, full fat
+\n7. ½ cup water or chicken stock optional
+\n8. 1 Tablespoon brown sugar
+\n9. 1 teaspoon fish sauce
+\n10. 2 Tablespoons lime juice
+\n11. salt to taste
+\n12. handful fresh cilantro roughly chopped
+\n13. 4 cups cooked white rice</string>
+    <string name="chicken_curry_pro">Heat the oil in a large pot over medium low heat. Add the onions and minced garlic and cook for a few minutes until the onions are fragrant and softened.
+\n\nAdd the chicken and cook for 2-3 minutes, browning it a little. Add curry powder and paste; cook for 3-5 minutes.
+\n\nAdd the coconut milk, and let simmer for 15-20 minutes or until the chicken is fully cooked.
+\n\nAdd water or chicken stock depending on the consistency you want for the sauce, or let simmer longer to thicken if needed.
+\n\nStir in the brown sugar, fish sauce, and lime juice. Taste and salt if needed
+Top with fresh cilantro, serve over cooked rice.</string>
+    <string name="fried_rice_ind">1. 2 tbsp. extra-virgin olive oil
+\n2. 3 chicken breasts (about 1 1/4 lb.)
+\n3. Kosher salt
+\n4. Freshly ground black pepper
+\n5. 2 tbsp. sesame oil, divided
+\n6. 1 medium onion, chopped
+\n7. 2 carrots, peeled and diced
+\n8. 3 cloves garlic, minced
+\n9. 1 tbsp. freshly minced ginger
+\n10. 4 c. cooked white rice (preferably leftover)
+\n11. 3/4 c. frozen peas
+\n12. 3 large eggs, beaten
+\n13. 3 tbsp. low-sodium soy sauce
+\n14. 2 green onions, thinly sliced</string>
+    <string name="fried_rice_pro">In a medium skillet over medium heat, heat olive oil. Season chicken with salt and pepper on both sides, then add to skillet, and cook until golden and no longer pink, 8 minutes per side. Remove from skillet and let rest 5 minutes, then cut into bite-sized pieces.
+\n\nTo the same skillet, heat 1 tablespoon sesame oil. Add onion and carrots and cook until soft, 5 minutes, Add garlic and ginger and cook until fragrant, 1 minute more. Stir in rice and peas and cook until warmed through, 2 minutes.
+\n\nPush rice to one side of skillet and add remaining tablespoon sesame oil to other side. Add egg and stir until almost fully cooked, then fold eggs into rice. Add chicken back to skillet with soy sauce and green onions and stir to combine.</string>
+    <string name="sushi_roll_ind">1. 2/3 cup uncooked short-grain white rice\n2. 3 tablespoons rice vinegar\n3. 3 tablespoons white sugar1\n3. 1/2 teaspoons salt4 sheets nori seaweed sheets</string>
+    <string name="sushi_roll_pro">In a medium saucepan, bring 1 1/3 cups water to a boil. Add rice, and stir. Reduce heat, cover, and simmer for 20 minutes. In a small bowl, mix the rice vinegar, sugar ,and salt. Blend the mixture into the rice.
+\n\nPreheat oven to 300 degrees F (150 degrees C). On a medium baking sheet, heat nori in the preheated oven 1 to 2 minutes, until warm.
+\n\nCenter one sheet nori on a bamboo sushi mat. Wet your hands. Using your hands, spread a thin layer of rice on the sheet of nori, and press into a thin layer. Arrange 1/4 of the cucumber, ginger, avocado, and imitation crabmeat in a line down the center of the rice. Lift the end of the mat, and gently roll it over the ingredients, pressing gently. Roll it forward to make a complete roll. Repeat with remaining ingredients.
+\n\nCut each roll into 4 to 6 slices using a wet, sharp knife</string>
+    <string name="miso_soup_ind">1. 2 cups water
+\n2. 1 (2-inch) piece kombu (dried black kelp)
+\n3. 1/2 cup loosely packed dried bonito flakes (katsuobushi), optional
+   \n4. 4 ounces silken or firm tofu, drained
+\n5. 1 to 2 medium scallions
+\n6. 2 tablespoons red or white miso paste</string>
+    <string name="miso_soup_pro">Make the dashi (See step-by-step instructions: How To Make Dashi). Combine the water and kombu in a 1-quart saucepan over medium heat. Remove the kombu just as the water starts to come to a boil. Add the bonito flakes, if using, and let the water come to a rapid simmer. Simmer for about 1 minute, then remove the pan from heat and let the bonito steep for an additional 5 minutes. Strain the bonito from the dashi. Add additional water if necessary to make 2 cups. Alternatively, substitute 2 cups water, chicken broth, or vegetable broth.
+\n\nPrepare the tofu and scallions. Cut the tofu into very small cubes, 1/4-inch to 1/2-inch on each side. Slice the scallions very thinly.
+\n\nBring the broth to a rapid simmer. Pour the dashi or broth back into the saucepan and bring to a rapid simmer over medium-high heat.
+\n\nMix the miso with 1/2 cup hot broth. Place the miso in a small ramekin or measuring cup. Scoop out about 1/2 cup of the broth and pour it over the miso. Whisk with a fork or whisk until the miso is entirely dissolved in the water and no lumps remain.
+Pour the miso into the broth. Pour the dissolved miso into the simmering broth.
+\n\nAdd the tofu. Reduce the heat to medium-low and add the tofu to the miso. Simmer just enough to warm the tofu, 1 to 2 minutes. Do not boil the miso once the tofu has been added.
+\n\nAdd the scallions. Just before serving, scatter the scallions over the top of the soup.
+\n\nServe in individual bowls. Pour the miso into individual bowls and serve. Miso is best when served fresh. It will settle a bit as it sits in the broth; whisk briefly with chopsticks or a spoon to mix the soup again.</string>
+    <string name="mums_chicken_ind">1. 8 chicken drumsticks, skin on (the skin is important for flavour, and is so tasty to eat!)\n
+        2. 1 cup water\n
+3. 1/2 cup balsamic vinegar\n
+4. 1/3 cup soy sauce\n
+5. 2 1/2 tablespoons sugar\n
+6. 1 garlic clove, peeled and bruised\n
+7. 1 small hot chili pepper, slit open, seeds removed</string>
+    <string name="mums_chicken_pro">The liquid will thicken to a glaze if you are patient. It just takes a bit of time. If you feel your chicken is cooked (and going to overcook) remove it before going on to reduce the liquid. Same thing, if you must use breast meat, remove it </string>
+    <string name="chessy_chicken_ind">1. 2 tsp. oil\n
+ 2. 4 small boneless skinless chicken breasts (1 lb.)\n
+ 3. 2 cups frozen broccoli florets, thawed\n
+ 4. 1 can (10-3/4 oz.) condensed cream of chicken soup\n
+ 5. 1/4 lb.\n
+ 6. 2 cups hot cooked long-grain white rice</string>
+    <string name="chessy_chicken_pro">Heat oil in large nonstick skillet on medium-high heat. Add chicken; cook 6 to 7 min. on each side or until done (165ºF). Remove chicken from skillet; cover to keep warm.
+\n2. Add broccoli, soup and VELVEETA to skillet; mix well. Cook on medium heat 7 min. or until VELVEETA is melted and sauce is heated through, stirring frequently.
+\n3. Serve chicken and broccoli mixture over rice.</string>
+    <string name="potato_salad_ind">1. 5 potatoes3 eggs\n2. 1 cup chopped celery\n3. 1/2 cup chopped onion\n4. 1/2 cup sweet pickle relish\n5. 1/4 teaspoon garlic salt\n6. 1/4 teaspoon celery salt1 tablespoon prepared mustardground black pepper to taste\n7. 1/4 cup mayonnaise</string>
+    <string name="potato_salad_pro">Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, peel and chop.
+Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.
+In a large bowl, combine the potatoes, eggs, celery, onion, relish, garlic salt, celery salt, mustard, pepper and mayonnaise. Mix together well and refrigerate until chilled.</string>
+    <string name="pizza_pasta_ind">1. 8 ounces rotini pasta\n2. 1 pound lean ground beef\n3. 1 small onion, diced1 (28 ounce) jar spaghetti sauce\n4. 4 ounces sliced pepperoni sausage\n5. 2 cups shredded mozzarella cheese</string>
+    <string name="pizza_pasta_pro">Preheat oven to 350 degrees F (175 degrees C).
+\n\nBring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+\n\nIn a medium skillet over medium-high heat, cook beef with onion until beef is brown. Drain. Combine beef mixture with spaghetti sauce, pepperoni and cooked pasta and pour into a 9x13 inch baking dish. Top with mozzarella.
+Bake in preheated oven for 30 minutes, until cheese is melted and golden.</string>
+
+
+</resources>
+
+
